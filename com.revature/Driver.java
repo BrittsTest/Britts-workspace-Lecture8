@@ -23,7 +23,7 @@ public class Driver{
         - assertThat() - general assertion
 
     @Test
-    public void testAddMethod(){
+    public void testAddMethod(){  
         System.out.println("Testing add()");
         result = someObject.add(a, b);
         //check against the result we want.
